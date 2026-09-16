@@ -1,0 +1,765 @@
+{
+  "AOTD_1.swf": {
+    "type": "button",
+    "template": "eCommerce-Generic.swt",
+    "text": "AOTD",
+    "url": "Comicbookstore.htm",
+    "target": "_self",
+    "font": "Arial",
+    "size": "240"
+  },
+  "Apparel.swf": {
+    "type": "button",
+    "template": "Soft-LimeGreen.swt",
+    "text": "Apparel",
+    "url": "Apparelstore.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "Backchara1.swf": {
+    "type": "button",
+    "template": "Glass-Silver.swt",
+    "text": "Back",
+    "url": "Characters.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "Backchara10.swf": {
+    "type": "button",
+    "template": "Glass-Silver.swt",
+    "text": "Back",
+    "url": "Characters.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "Backchara2.swf": {
+    "type": "button",
+    "template": "Glass-Silver.swt",
+    "text": "Back",
+    "url": "Characters.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "Backchara3.swf": {
+    "type": "button",
+    "template": "Glass-Silver.swt",
+    "text": "Back",
+    "url": "Characters.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "Backchara4.swf": {
+    "type": "button",
+    "template": "Glass-Silver.swt",
+    "text": "Back",
+    "url": "Characters.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "Backchara5.swf": {
+    "type": "button",
+    "template": "Glass-Silver.swt",
+    "text": "Back",
+    "url": "Characters.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "Backchara6.swf": {
+    "type": "button",
+    "template": "Glass-Silver.swt",
+    "text": "Back",
+    "url": "Characters.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "Backchara7.swf": {
+    "type": "button",
+    "template": "Glass-Silver.swt",
+    "text": "Back",
+    "url": "Characters.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "Backchara8.swf": {
+    "type": "button",
+    "template": "Glass-Silver.swt",
+    "text": "Back",
+    "url": "Characters.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "Backchara9.swf": {
+    "type": "button",
+    "template": "Glass-Silver.swt",
+    "text": "Back",
+    "url": "Characters.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "Bowler.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Green.swt",
+    "text": "Bowler Guy",
+    "url": "BowlerGuy.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "C164.swf": {
+    "type": "button",
+    "template": "eCommerce-Generic.swt",
+    "text": "Comic #164",
+    "url": "Comic164.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "C187.swf": {
+    "type": "button",
+    "template": "eCommerce-Generic.swt",
+    "text": "Comic #187",
+    "url": "Comic187.htm",
+    "target": "_self",
+    "font": "Arial",
+    "size": "240"
+  },
+  "C188.swf": {
+    "type": "button",
+    "template": "eCommerce-Generic.swt",
+    "text": "Comic #188",
+    "url": "Comic188.htm",
+    "target": "_self",
+    "font": "Arial",
+    "size": "240"
+  },
+  "C191.swf": {
+    "type": "button",
+    "template": "eCommerce-Generic.swt",
+    "text": "Comic #191",
+    "url": "Comic191.htm",
+    "target": "_self",
+    "font": "Arial",
+    "size": "240"
+  },
+  "C192.swf": {
+    "type": "button",
+    "template": "eCommerce-Generic.swt",
+    "text": "Comic #192",
+    "url": "Comic192.htm",
+    "target": "_self",
+    "font": "Arial",
+    "size": "240"
+  },
+  "C193.swf": {
+    "type": "button",
+    "template": "eCommerce-Generic.swt",
+    "text": "Comic #193",
+    "url": "Comic193.htm",
+    "target": "_self",
+    "font": "Arial",
+    "size": "240"
+  },
+  "C245.swf": {
+    "type": "button",
+    "template": "eCommerce-Generic.swt",
+    "text": "Comic #245",
+    "url": "Comic245.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "C248.swf": {
+    "type": "button",
+    "template": "eCommerce-Generic.swt",
+    "text": "Comic #248",
+    "url": "Comic248.htm",
+    "target": "_self",
+    "font": "Arial",
+    "size": "240"
+  },
+  "C266.swf": {
+    "type": "button",
+    "template": "eCommerce-Generic.swt",
+    "text": "Comic #266",
+    "url": "javascript:;",
+    "target": null,
+    "font": "Arial",
+    "size": "240"
+  },
+  "C57.swf": {
+    "type": "button",
+    "template": "eCommerce-Generic.swt",
+    "text": "Comic #57",
+    "url": "Comicstore.htm",
+    "target": "_self",
+    "font": "Arial",
+    "size": "240"
+  },
+  "CB.swf": {
+    "type": "button",
+    "template": "Soft-LimeGreen.swt",
+    "text": "Comic Books",
+    "url": "Comicbookstore.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "Comic254.swf": {
+    "type": "button",
+    "template": "eCommerce-Generic.swt",
+    "text": "Comic #254",
+    "url": "Comic254.htm",
+    "target": "_self",
+    "font": "Arial",
+    "size": "240"
+  },
+  "MiniM.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Green.swt",
+    "text": "Mini-Mi",
+    "url": "MiniMi.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "Mrevil.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Green.swt",
+    "text": "Mr. Evil",
+    "url": "MrEvil.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "OxyM.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Green.swt",
+    "text": "Oxy-Moron",
+    "url": "oxymoron.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "PComic.swf": {
+    "type": "button",
+    "template": "eCommerce-Generic.swt",
+    "text": "Comics",
+    "url": "javascript:;",
+    "target": null,
+    "font": "Arial",
+    "size": "260"
+  },
+  "PComics.swf": {
+    "type": "button",
+    "template": "Soft-LimeGreen.swt",
+    "text": "Comics",
+    "url": "Comicstore.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "Targets_email_intro.swf": {
+    "type": "other"
+  },
+  "Timet.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Green.swt",
+    "text": "Timetravel",
+    "url": "Timetravel.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "XCarol1.swf": {
+    "type": "button",
+    "template": "eCommerce-Generic.swt",
+    "text": "Xmas Carol",
+    "url": "ChristmasCarol.htm",
+    "target": "_self",
+    "font": "Arial",
+    "size": "240"
+  },
+  "attorney.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Green.swt",
+    "text": "Attorney",
+    "url": "Attorney.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "backtomaps1.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Bronze.swt",
+    "text": "Back to Maps",
+    "url": "Maps.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "bck2gmes.swf": {
+    "type": "button",
+    "template": "Navigation-Previous (Green).swt",
+    "text": null,
+    "url": "Games.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "buygames.swf": {
+    "type": "button",
+    "template": "Soft-LimeGreen.swt",
+    "text": "Games",
+    "url": "Gamesstore.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "characters.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Blue.swt",
+    "text": "Characters",
+    "url": "Characters.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "checkout.swf": {
+    "type": "button",
+    "template": "eCommerce-Checkout.swt",
+    "text": "Checkout",
+    "url": "Checkout.htm",
+    "target": "_self",
+    "font": "Arial",
+    "size": "240"
+  },
+  "copyright.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Blue.swt",
+    "text": "Copyright",
+    "url": "Copyright.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "demofgrpg.swf": {
+    "type": "button",
+    "template": "Slider.swt",
+    "text": "ZIP File",
+    "url": "downloadfgrpg.htm",
+    "target": "_self",
+    "font": "Impact",
+    "size": "300"
+  },
+  "dwnld.swf": {
+    "type": "button",
+    "template": "Blip Arrow.swt",
+    "text": "Download",
+    "url": "http://www.gameroom.com/fgoacgames/demo_fgrpg.zip",
+    "target": "_self",
+    "font": "Trebuchet MS",
+    "size": "260"
+  },
+  "element.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Green.swt",
+    "text": "Elemental",
+    "url": "Elemental.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "email.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Blue.swt",
+    "text": "Email",
+    "url": "Email.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "emp.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Blue.swt",
+    "text": "Employment",
+    "url": "Employment.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "es.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Green.swt",
+    "text": "\"Evil\" Scientist",
+    "url": "EvilScentist.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "esslab.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Green.swt",
+    "text": "ES's Lab",
+    "url": "eslab.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "evilisland.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Green.swt",
+    "text": "Evil Island",
+    "url": "evilisland.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "fanstuf.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Blue.swt",
+    "text": "Fan Stuff",
+    "url": "FanStuff.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "faq.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Blue.swt",
+    "text": "FAQ",
+    "url": "Faq.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "fghouse.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Green.swt",
+    "text": "FG's House",
+    "url": "fghouse.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "forums.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Blue.swt",
+    "text": "The Forums",
+    "url": "http://s7.invisionfree.com/FGOAC_Forums/index.php?act=idx",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "funnyland.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Green.swt",
+    "text": "Funnyland",
+    "url": "funnyland.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "games.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Blue.swt",
+    "text": "Games",
+    "url": "http://www.gameroom.com/fgoacgames/",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "gritz.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Green.swt",
+    "text": "Gritz",
+    "url": "Gritz.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "history.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Blue.swt",
+    "text": "History",
+    "url": "History.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "home.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Blue.swt",
+    "text": "Home",
+    "url": "index.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "jbond.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Green.swt",
+    "text": "J. Bond",
+    "url": "JBond.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "junior.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Green.swt",
+    "text": "Junior",
+    "url": "Junior.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "koven.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Green.swt",
+    "text": "Koven",
+    "url": "Koven.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "maps.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Blue.swt",
+    "text": "Maps",
+    "url": "Maps.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "monetary.swf": {
+    "type": "button",
+    "template": "eCommerce-Cash.swt",
+    "text": "Payments",
+    "url": "Payments.htm",
+    "target": "_self",
+    "font": "Arial",
+    "size": "240"
+  },
+  "mrit.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Green.swt",
+    "text": "Mr. It",
+    "url": "MrIt.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "olymp.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Green.swt",
+    "text": "Olympian",
+    "url": "Olympian.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "posters.swf": {
+    "type": "button",
+    "template": "Soft-LimeGreen.swt",
+    "text": "Posters",
+    "url": "Postersstore.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "pottyp.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Green.swt",
+    "text": "Potty-P",
+    "url": "PottyP.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "pp.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Blue.swt",
+    "text": "Privacy Policy",
+    "url": "PrivacyPolicy.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "ppsdc.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Green.swt",
+    "text": "Potty-P's",
+    "url": "pottypdc.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "razor.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Green.swt",
+    "text": "Razor",
+    "url": "Razor.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "repairm.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Green.swt",
+    "text": "Repair Man",
+    "url": "RepairMan.htm",
+    "target": "mainFrame",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "rm.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Green.swt",
+    "text": "Repair Man",
+    "url": "RepairMan.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "rp.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Blue.swt",
+    "text": "Return Policy",
+    "url": "ReturnPolicy.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "santy.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Green.swt",
+    "text": "Santa",
+    "url": "Santa.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "sm.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Green.swt",
+    "text": "Serious Man",
+    "url": "seriousman.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "soda.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Green.swt",
+    "text": "Yoda",
+    "url": "Yoda.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "sponsor.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Blue.swt",
+    "text": "Sponsors",
+    "url": "Sponsors.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "sponsors.swf": {
+    "type": "text",
+    "template": "text template.swt",
+    "text": "Sponsors",
+    "color": "#0000FF",
+    "font": "Times New Roman",
+    "size": "280",
+    "url": "Sponsors.htm",
+    "target": "_self",
+    "rollovercolor": "#00CC66",
+    "bold": "true",
+    "italic": "false"
+  },
+  "store.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Blue.swt",
+    "text": "Store",
+    "url": "Store.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "strfighter.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Green.swt",
+    "text": "Street Fighter",
+    "url": "StreetFighter.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "studio.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Green.swt",
+    "text": "The Oxy-Studio",
+    "url": "oxystudio.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "target.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Green.swt",
+    "text": "Target",
+    "url": "Target.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "thecomics.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Blue.swt",
+    "text": "The Comics",
+    "url": "TheComics.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "themonk.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Green.swt",
+    "text": "The Monkey",
+    "url": "TheMonkey.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "vocab.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Blue.swt",
+    "text": "Vocabulary",
+    "url": "Vocabulary.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  },
+  "volun.swf": {
+    "type": "button",
+    "template": "Beveled Rect-Blue.swt",
+    "text": "Volunteers",
+    "url": "Volunteers.htm",
+    "target": "_self",
+    "font": "Verdana",
+    "size": "240"
+  }
+}

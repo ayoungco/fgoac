@@ -1,0 +1,153 @@
+/* CSS recreations of the site's Dreamweaver MX "Flash Button" / "Flash Text"
+   nav elements (2004 originals were .swf movies from the stock Flash Objects
+   templates listed below). Each button keeps the original's text, link,
+   target, font and size; the look is redrawn as a beveled CSS button in the
+   same color family as the original .swt template instead of vector Flash
+   art. See ../README.md for how these were extracted. */
+
+.fbtn {
+  margin: 1px 2px 1px 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  text-decoration: none;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  white-space: nowrap;
+  padding: 0 5px;
+  border-radius: 3px;
+  border-style: solid;
+  border-width: 1px;
+  box-sizing: border-box;
+  cursor: pointer;
+  user-select: none;
+  vertical-align: middle;
+}
+
+.fbtn:active {
+  filter: brightness(0.92);
+  transform: translateY(1px);
+}
+
+/* Beveled Rect-Blue.swt -- the main Site Navigator bar */
+.fbtn-blue {
+  color: #ffffff;
+  background: linear-gradient(to bottom, #6fc3ff 0%, #0099ff 45%, #0261a8 100%);
+  border-color: #023d6b #012845 #012030 #023d6b;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.35);
+}
+.fbtn-blue:hover {
+  background: linear-gradient(to bottom, #8fd2ff 0%, #29a9ff 45%, #0578c4 100%);
+}
+
+/* Beveled Rect-Green.swt -- character bio buttons */
+.fbtn-green {
+  color: #ffffff;
+  background: linear-gradient(to bottom, #a4e07f 0%, #4cb027 45%, #256b10 100%);
+  border-color: #0f3a06 #0a2804 #082005 #0f3a06;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.35);
+}
+.fbtn-green:hover {
+  background: linear-gradient(to bottom, #bcecA0 0%, #63c93f 45%, #2f8615 100%);
+}
+
+/* Beveled Rect-Bronze.swt */
+.fbtn-bronze {
+  color: #fff3d9;
+  background: linear-gradient(to bottom, #d9a96b 0%, #a5651f 45%, #6b3f0f 100%);
+  border-color: #3c2308 #281605 #201203 #3c2308;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.4);
+}
+.fbtn-bronze:hover {
+  background: linear-gradient(to bottom, #eac190 0%, #c07f34 45%, #82501a 100%);
+}
+
+/* Glass-Silver.swt -- "Back" buttons */
+.fbtn-silver {
+  color: #2a2a2a;
+  background: linear-gradient(to bottom, #ffffff 0%, #d4d8dc 45%, #9aa1a8 100%);
+  border-color: #6b7176 #565b60 #4a4e52 #6b7176;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.6);
+}
+.fbtn-silver:hover {
+  background: linear-gradient(to bottom, #ffffff 0%, #e6e9eb 45%, #b3b9bf 100%);
+}
+
+/* Soft-LimeGreen.swt -- store category buttons */
+.fbtn-lime {
+  color: #234000;
+  background: linear-gradient(to bottom, #e4ffb0 0%, #a9e04e 50%, #79b024 100%);
+  border-color: #5c8a1c #4a7014 #3e5f10 #5c8a1c;
+  border-radius: 14px;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
+}
+.fbtn-lime:hover {
+  background: linear-gradient(to bottom, #eeffc8 0%, #bcea6e 50%, #8cc236 100%);
+}
+
+/* eCommerce-Generic.swt -- comic issue / store item buttons */
+.fbtn-generic {
+  color: #ffffff;
+  background: linear-gradient(to bottom, #8891a0 0%, #4b5568 45%, #2c3342 100%);
+  border-color: #14171e #0c0e12 #08090c #14171e;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.4);
+}
+.fbtn-generic:hover {
+  background: linear-gradient(to bottom, #9aa3b2 0%, #5d6980 45%, #3a4356 100%);
+}
+
+/* eCommerce-Checkout.swt */
+.fbtn-checkout {
+  color: #ffffff;
+  background: linear-gradient(to bottom, #ffd24d 0%, #f2a900 45%, #b87800 100%);
+  border-color: #5c3c00 #402a00 #332100 #5c3c00;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.4);
+}
+.fbtn-checkout:hover {
+  background: linear-gradient(to bottom, #ffdd73 0%, #ffbb26 45%, #d98e00 100%);
+}
+
+/* eCommerce-Cash.swt -- Payments */
+.fbtn-cash {
+  color: #ffffff;
+  background: linear-gradient(to bottom, #b9f0a0 0%, #4f9e2e 45%, #275c14 100%);
+  border-color: #123307 #0c2405 #091c04 #123307;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.4);
+}
+.fbtn-cash:hover {
+  background: linear-gradient(to bottom, #cdf6ba 0%, #66b943 45%, #327019 100%);
+}
+
+/* Slider.swt / Blip Arrow.swt / Navigation-Previous.swt -- misc download / arrow buttons */
+.fbtn-misc {
+  color: #ffffff;
+  background: linear-gradient(to bottom, #9fb8ff 0%, #4a6fd8 45%, #2846a0 100%);
+  border-color: #0f1e4b #0a1636 #08112b #0f1e4b;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.4);
+}
+.fbtn-misc:hover {
+  background: linear-gradient(to bottom, #bccdff 0%, #6a8ce8 45%, #3a5bc0 100%);
+}
+
+/* Flash Text template -- plain colored rollover link (e.g. "Sponsors") */
+.ftext {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  text-decoration: none;
+  color: var(--fg, #0000ff);
+  display: inline-flex;
+  align-items: center;
+}
+.ftext:hover {
+  color: var(--hover, #0000ff);
+}
+
+/* Site Navigator bar layout */
+.site-navigator {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3px;
+  padding: 6px;
+  justify-content: center;
+}
